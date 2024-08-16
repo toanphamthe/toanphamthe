@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @toantretrou
+- 👋 Hi, I’m @toanphamthe
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#, Unity
 - 💞️ I'm looking for a job via email
-- 📫 How to reach me: toantretrou@gmail.com(email address)
+- 📫 How to reach me: toanphamthe.work@gmail.com(email address)
