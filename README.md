@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on: Developing a Unity 2D/3D game with mechanics like object pooling, state machines, and enemy/player interactions.<br>👯 I’m looking to collaborate on Unity projects, especially in game development, including mechanics implementation, state machines, or level design.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
