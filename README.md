@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing a Unity 2D/3D game with mechanics like object pooling, state machines, and enemy/player interactions.<br>👯 I’m looking to collaborate on Unity projects, especially in game development, including mechanics implementation, state machines, or level design.<br>🌱 I’m currently learning: Unity development, state machines, object pooling, and implementing camera effects <br>⚡ Fun fact: I'm currently learning Unity game development and having fun creating dynamic game mechanics!
+🔭 I’m currently working on: Developing game projects with various mechanics like object management, state control, and interactions between game elements.
+<br>🌱 New technologies and techniques in game development, especially in optimization and visual effects.
+<br>⚡ Fun fact: I’m very excited about creating unique and engaging game mechanics!
 
 
 # 💻 Tech Stack:
