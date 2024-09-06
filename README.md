@@ -1,10 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on: Developing game projects with various mechanics like object management, state control, and interactions between game elements.
-<br>🌱 I’m currently learning: New technologies and techniques in game development, especially in optimization and visual effects.
-<br>⚡ Fun fact: I’m very excited about creating unique and engaging game mechanics!
+<br>
+🌱 I’m currently learning: New technologies and techniques in game development, especially in optimization and visual effects.
+<br>
+⚡ Fun fact: I’m very excited about creating unique and engaging game mechanics!
 
 # Reach Me:
 ![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white) linkedin.com/in/toanphamthe/
+<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) toanphamthe.work@gmail.com
 
 
